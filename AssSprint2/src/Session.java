@@ -3,8 +3,6 @@ public class Session {
 	 private int sessionID;//
 	 private String movieName;//
 	 private String time;//
-	 private String duration;//
-	
 
 	public Session(int sessionID, String movieName, String time, String duration) {
 		
