@@ -3,7 +3,6 @@ public class Booking {
  private int bookingID;//
  private String email;//
  private String surburb;//
- private String movieName;//
  private String time;//
  private String duration;//
  public Booking(int bookingID,String email,String surburb,String movieName,String time,String duration){
