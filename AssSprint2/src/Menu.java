@@ -3,10 +3,7 @@ public class Menu {
  //MainMenu
  public void loginMenu() {
 	
- }
- public void mainMenu() {
-  System.out.println(" Please select from the following option");
-  System.out.println("===================================");
+
   System.out.println("1. Make a booking");
   System.out.println("2. List all sessions");
   System.out.println("3. Find a movie session by name");
